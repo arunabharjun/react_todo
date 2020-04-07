@@ -71,7 +71,7 @@ class App extends React.Component {
                 <img src={logo} alt="" className="App-logo" />
               </div>
               <div className="col-8">
-                <h6 className="todo-header"><span></span> Todo App</h6>
+                <h6 className="todo-header"><span><a href={'https://github.com/sunnyarj114'}>Arunabh's</a></span> Todo App</h6>
               </div>
             </div>
             <div className="row">
